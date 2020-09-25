@@ -1,0 +1,41 @@
+body{
+	
+	color: white;
+	margin: 50px;
+	font-family: 'fantasy', sans-serif;	
+	background-image: url("https://images5.alphacoders.com/985/thumb-1920-985499.jpg")
+    
+
+    } 
+
+.class1{
+	background-color: white;
+	color:red;
+}
+.class2
+{
+	background-color: black
+}
+
+.class3{
+	border:5px solid black;
+}
+
+h1{
+
+	color: teal;
+	background-color: grey;
+	border-radius: 20px 20px 20px 20px;
+	box-shadow: 20px 20px 20px 20px;
+	margin: 50px;
+	padding:20px;
+	text-align: center;
+}
+
+h1:hover {
+	background-color: black;
+}
+
+ul{
+	float: right;
+}

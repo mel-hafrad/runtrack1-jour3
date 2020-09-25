@@ -1,0 +1,45 @@
+
+body{
+	
+	color: white;
+	margin: 50px;
+	font-family: 'Open Sans', sans-serif;	
+	background-image: url(https://i.pinimg.com/originals/07/b2/58/07b258ec1860e9d64b2b32f57f834997.jpg)
+    
+
+    } 
+
+
+.class1{
+	background-color: white;
+	color:purple;
+}
+.class2
+{
+	background-color: white
+}
+
+.class3{
+	border:5px solid black;
+}
+
+
+
+
+h1{
+	color: black;
+	background-color: maroon;
+	border-radius: 20px 20px 20px 20px;
+	box-shadow: 20px 20px 20px 20px;
+	margin: 50px;
+	padding:20px;
+	text-align: center;
+}
+
+h1:hover {
+	background-color: teal
+}
+
+ul{
+	float: right;
+}
